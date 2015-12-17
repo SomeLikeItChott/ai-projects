@@ -1,4 +1,4 @@
-(reset)
-(load "ai-projects/project\ 5/adventure.clp")
+(load "adventure.clp")
 (set-strategy lex)
+(reset)
 (run)
